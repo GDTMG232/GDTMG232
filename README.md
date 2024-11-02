@@ -1,8 +1,5 @@
-# About Me
-I'm TMG.
+# What I do
 
-I code.
+I make programs with Python and have some experience in Website creation with JS.
 
-That's it.
-
-https://gdtmg232.github.io/about-tmg/
+https://gdtmg232.github.io/about-tmg
